@@ -1,3 +1,4 @@
 dataset/
 logs/
 *.pyc
+*.txt
